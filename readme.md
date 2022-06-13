@@ -1,1 +1,1 @@
-# All the DSA questions that I solved in Javascript
+# Solutions of many kinds of problems in Javascript
